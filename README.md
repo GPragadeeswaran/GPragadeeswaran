@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**GPragadeeswaran/GPragadeeswaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Pragadeeswaran, a Backend Developer from India passionate about building scalable applications and exploring AI-powered solutions.
 
-Here are some ideas to get you started:
+Currently Working On 
+- Building backend applications with FastAPI & PostgreSQL
+- Learning System Design, AI Agents, RAG, and MCP
+- Developing projects that solve real-world problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack 
+Python • FastAPI • Flask • JavaScript • React • PostgreSQL • Docker • Git • Linux • REST APIs • LLMs
+
+Reach Me
+-  LinkedIn: linkedin.com/in/gpragadeeswaran
+-  Email: pragadeeswaran611@gmail.com
+
+Thanks for stopping by! Feel free to explore my projects and connect with me. 
