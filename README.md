@@ -11,7 +11,7 @@ Tech Stack
 Python • FastAPI • Flask • JavaScript • React • PostgreSQL • Docker • Git • Linux • REST APIs • LLMs
 
 Reach Me
--  LinkedIn: linkedin.com/in/gpragadeeswaran
+-  LinkedIn: https://www.linkedin.com/in/gpragadeeswaran/
 -  Email: pragadeeswaran611@gmail.com
 
 Thanks for stopping by! Feel free to explore my projects and connect with me. 
