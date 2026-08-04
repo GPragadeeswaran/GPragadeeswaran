@@ -8,7 +8,7 @@ Currently Working On
 - Developing projects that solve real-world problems
 
 Tech Stack 
-Python • FastAPI • Flask • JavaScript • React • PostgreSQL • Docker • Git • Linux • REST APIs • LLMs
+Python • FastAPI • Flask • PostgreSQL • Docker • Git • Linux • REST APIs • LLMs
 
 Reach Me
 -  LinkedIn: https://www.linkedin.com/in/gpragadeeswaran/
