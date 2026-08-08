@@ -13,5 +13,6 @@ Python • FastAPI • Flask • PostgreSQL • Git • Linux • REST APIs • 
 Reach Me
 -  LinkedIn: https://www.linkedin.com/in/gpragadeeswaran/
 -  Email: pragadeeswaran611@gmail.com
+-  Portfolio - https://gpragadeeswaran.github.io/pragadeesh-portfolio/ 
 
 Thanks for stopping by! Feel free to explore my projects and connect with me. 
